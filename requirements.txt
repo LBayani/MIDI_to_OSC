@@ -1,0 +1,4 @@
+PyQt6==6.8.1
+python-osc==1.9.3
+mido==1.3.3
+rtmidi
